@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#071318" />
+    <meta name="description" content="动力站轻量化三维模型管理与审阅平台" />
+    <title>动力站 · 轻量化模型管理平台</title>
+    <link rel="stylesheet" href="/cesium/Widgets/widgets.css" />
+    <link rel="stylesheet" href="/src/style.css?v=22" />
+  </head>
+  <body>
+    <div id="app">
+      <header class="topbar">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></div>
+          <div>
+            <h1>动力站模型管理平台</h1>
+            <p>POWER STATION · DIGITAL REVIEW</p>
+          </div>
+        </div>
+        <div class="topbar-status">
+          <span class="status-dot" id="serviceDot"></span>
+          <span id="serviceText">服务检测中</span>
+          <span class="divider"></span>
+          <time id="clock"></time>
+        </div>
+      </header>
+
+      <main class="workspace">
+        <aside class="left-panel panel">
+          <div class="panel-heading">
+            <div><span class="eyebrow">PROJECT</span><h2>模型资源</h2></div>
+            <button class="icon-button" id="collapseLeft" title="收起资源面板" aria-label="收起资源面板">‹</button>
+          </div>
+          <div class="project-card">
+            <div class="project-icon">PS</div>
+            <div><strong>动力站管道模型</strong><span>运行中 · 3D Tiles</span></div>
+          </div>
+          <div class="metrics">
+            <div><strong>52</strong><span>模型瓦片</span></div>
+            <div><strong>3</strong><span>精度层级</span></div>
+            <div><strong>6.36<small> MB</small></strong><span>模型体量</span></div>
+          </div>
+          <div class="section-title"><span>模型结构</span><button id="loadTree">展开结构</button></div>
+          <div class="tree" id="modelTree">
+            <button class="tree-row active" data-root="true"><span class="chevron">▾</span><span class="cube-icon"></span><span>动力站.nwc</span><em>可见</em></button>
+            <div class="tree-placeholder">结构数据按需加载，不影响模型首屏。</div>
+          </div>
+          <div class="panel-footer">
+            <span>数据源</span><strong>tileset.json + b3dm</strong>
+          </div>
+        </aside>
+
+        <section class="viewer-shell">
+          <div id="cesiumContainer" aria-label="动力站三维模型审阅区"></div>
+          <button class="panel-reopen reopen-left" id="reopenLeft" title="展开模型资源" aria-label="展开模型资源">›</button>
+          <button class="panel-reopen reopen-right" id="reopenRight" title="展开对象属性" aria-label="展开对象属性">‹</button>
+          <div class="loading-screen" id="loadingScreen">
+            <div class="loader-orbit"><span></span><i></i></div>
+            <strong>正在装载动力站模型</strong>
+            <p id="loadingDetail">连接模型服务…</p>
+            <div class="progress-track"><span id="progressBar"></span></div>
+          </div>
+
+          <div class="viewer-menu" id="viewerMenu">
+            <div class="viewer-menu-heading">
+              <strong>审阅菜单</strong>
+              <span>VIEW TOOLS</span>
+            </div>
+            <div class="view-toolbar" role="toolbar" aria-label="模型审阅工具">
+              <button id="homeView" title="复位视图"><span>⌂</span><em>复位</em></button>
+              <button id="zoomIn" title="放大"><span>＋</span><em>放大</em></button>
+              <button id="zoomOut" title="缩小"><span>−</span><em>缩小</em></button>
+              <button id="focusSelection" title="聚焦选中对象（快捷键 F）"><span>⌾</span><em>聚焦 F</em></button>
+              <button id="toggleSpin" title="自动旋转"><span>↻</span><em>旋转</em></button>
+              <button id="toggleFullscreen" title="全屏"><span>⛶</span><em>全屏</em></button>
+              <button class="visibility-tool first" id="hideSelected" title="隐藏当前选定对象"><span>⊘</span><em>隐藏对象</em></button>
+              <button class="visibility-tool" id="isolateSelected" title="隐藏未选定对象，仅显示当前选定对象"><span>◉</span><em>仅看选定</em></button>
+              <button class="visibility-tool" id="translucentSelected" title="切换当前选定对象的半透明状态"><span>◐</span><em>半透明</em></button>
+              <button class="visibility-tool" id="showAllObjects" title="取消隐藏和半透明，显示全部对象"><span>◎</span><em>全部显示</em></button>
+            </div>
+            <div class="welding-legend" aria-label="焊接状态颜色图例">
+              <span><i class="component"></i>普通管件</span>
+              <span><i class="unwelded-seam"></i>未焊焊缝</span>
+              <span><i class="welded-seam"></i>已焊焊缝</span>
+              <span><i class="welded-adjacent"></i>已焊相邻构件</span>
+            </div>
+            <button class="viewer-menu-toggle" id="toggleViewerMenu" type="button" aria-expanded="true" title="收起审阅菜单">
+              <span>⌃</span><em>收起</em>
+            </button>
+          </div>
+
+          <div class="viewer-meta">
+            <span class="live-pill"><i></i> 实时渲染</span>
+            <span id="loadTime">等待模型</span>
+            <span id="fpsMeter">-- FPS</span>
+          </div>
+
+          <div class="compass" aria-hidden="true"><span>N</span><i></i></div>
+          <div class="interaction-help">
+            <span><i class="mouse left"></i>左键旋转</span>
+            <span><i class="mouse middle"></i>中键平移</span>
+            <span><i class="mouse wheel"></i>滚轮缩放</span>
+            <span><kbd>F</kbd>聚焦选中</span>
+          </div>
+        </section>
+
+        <aside class="right-panel panel" id="rightPanel">
+          <div class="panel-heading">
+            <div><span class="eyebrow">INSPECTOR</span><h2>对象属性</h2></div>
+            <button class="icon-button" id="collapseRight" title="收起属性面板" aria-label="收起属性面板">›</button>
+          </div>
+          <div class="selection-empty" id="selectionEmpty">
+            <div class="select-graphic"><span></span></div>
+            <strong>选择模型构件</strong>
+            <p>单击管道、阀门或法兰，查看其工程属性与标识信息。</p>
+          </div>
+          <div class="property-content hidden" id="propertyContent">
+            <div class="selected-card" hidden aria-hidden="true"><span id="selectedType">构件</span><strong id="selectedName">已选对象</strong><small id="selectedId">—</small></div>
+            <div class="property-list" id="propertyList"></div>
+          </div>
+          <div class="panel-footer property-source"><span>属性来源</span><strong>EP3D + 腾讯文档（刷新同步）</strong></div>
+        </aside>
+      </main>
+      <div class="toast" id="toast" role="status"></div>
+    </div>
+    <script>window.CESIUM_BASE_URL = "/cesium/";</script>
+    <script src="/cesium/Cesium.js"></script>
+    <script type="module" src="/src/main.js?v=56"></script>
+  </body>
+</html>

@@ -1,0 +1,4405 @@
+{
+  "schemaVersion": 1,
+  "source": "腾讯文档",
+  "sourceTitle": "动力站焊接数据库",
+  "sourceUrl": "https://docs.qq.com/sheet/DU1pUYVV6QkJaVnZK?tab=000001",
+  "sheetName": "焊口表-金丹0729",
+  "keyFields": [
+    "管线号",
+    "焊点编号"
+  ],
+  "dateField": "焊接日期",
+  "isVirtual": true,
+  "recordCount": 627,
+  "records": [
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-03-31",
+      "sourceRow": 36671,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-07-09",
+      "sourceRow": 36672,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-09-02",
+      "sourceRow": 36673,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-04-08",
+      "sourceRow": 36674,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-08-28",
+      "sourceRow": 36675,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-06-07",
+      "sourceRow": 36676,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-09-01",
+      "sourceRow": 36677,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-07-06",
+      "sourceRow": 36678,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-03-05",
+      "sourceRow": 36679,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-04-08",
+      "sourceRow": 36680,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-04-13",
+      "sourceRow": 36681,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-03-19",
+      "sourceRow": 36682,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-06-07",
+      "sourceRow": 36683,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-07-31",
+      "sourceRow": 36684,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-04-02",
+      "sourceRow": 36685,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08001-125-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-06-05",
+      "sourceRow": 36686,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-05-22",
+      "sourceRow": 36649,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-06-12",
+      "sourceRow": 36650,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-08-09",
+      "sourceRow": 36651,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-04-06",
+      "sourceRow": 36652,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-09-19",
+      "sourceRow": 36653,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-08-03",
+      "sourceRow": 36654,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-07-26",
+      "sourceRow": 36655,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-06-04",
+      "sourceRow": 36656,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-08-01",
+      "sourceRow": 36657,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-07-21",
+      "sourceRow": 36658,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-05-29",
+      "sourceRow": 36659,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-06-30",
+      "sourceRow": 36660,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-03-06",
+      "sourceRow": 36661,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-04-20",
+      "sourceRow": 36662,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-09-09",
+      "sourceRow": 36663,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-04-16",
+      "sourceRow": 36664,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-04-23",
+      "sourceRow": 36665,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-03-04",
+      "sourceRow": 36666,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-04-22",
+      "sourceRow": 36667,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-09-09",
+      "sourceRow": 36668,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-04-25",
+      "sourceRow": 36669,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08002-80-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-09-14",
+      "sourceRow": 36670,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-09-26",
+      "sourceRow": 36627,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-05-26",
+      "sourceRow": 36628,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-03-26",
+      "sourceRow": 36629,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-08-26",
+      "sourceRow": 36630,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-05-19",
+      "sourceRow": 36631,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-06-20",
+      "sourceRow": 36632,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-07-09",
+      "sourceRow": 36633,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-09-01",
+      "sourceRow": 36634,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-03-08",
+      "sourceRow": 36635,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-04-21",
+      "sourceRow": 36636,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-03-07",
+      "sourceRow": 36637,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-08-19",
+      "sourceRow": 36638,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-09-08",
+      "sourceRow": 36639,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-06-05",
+      "sourceRow": 36640,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-09-01",
+      "sourceRow": 36641,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-05-30",
+      "sourceRow": 36642,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-07-30",
+      "sourceRow": 36643,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-09-05",
+      "sourceRow": 36644,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-04-15",
+      "sourceRow": 36645,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-07-18",
+      "sourceRow": 36646,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-03-24",
+      "sourceRow": 36647,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08003-80-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-08-31",
+      "sourceRow": 36648,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-08-06",
+      "sourceRow": 36605,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-06-20",
+      "sourceRow": 36606,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-05-05",
+      "sourceRow": 36607,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-04-13",
+      "sourceRow": 36608,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-09-22",
+      "sourceRow": 36609,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-07-22",
+      "sourceRow": 36610,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-04-27",
+      "sourceRow": 36611,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-08-03",
+      "sourceRow": 36612,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-09-26",
+      "sourceRow": 36613,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-04-17",
+      "sourceRow": 36614,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-06-22",
+      "sourceRow": 36615,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-04-30",
+      "sourceRow": 36616,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-08-07",
+      "sourceRow": 36617,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-06-20",
+      "sourceRow": 36618,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-06-16",
+      "sourceRow": 36619,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-06-09",
+      "sourceRow": 36620,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-08-11",
+      "sourceRow": 36621,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-05-27",
+      "sourceRow": 36622,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-05-21",
+      "sourceRow": 36623,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-05-15",
+      "sourceRow": 36624,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-06-25",
+      "sourceRow": 36625,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08004-80-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-08-04",
+      "sourceRow": 36626,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-03-26",
+      "sourceRow": 36584,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-08-27",
+      "sourceRow": 36585,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-05-19",
+      "sourceRow": 36586,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-09-05",
+      "sourceRow": 36587,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-04-27",
+      "sourceRow": 36588,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-05-02",
+      "sourceRow": 36589,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-04-30",
+      "sourceRow": 36590,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-08-08",
+      "sourceRow": 36591,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-08-15",
+      "sourceRow": 36592,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-08-28",
+      "sourceRow": 36593,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-05-03",
+      "sourceRow": 36594,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-04-04",
+      "sourceRow": 36595,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-05-19",
+      "sourceRow": 36596,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-03-27",
+      "sourceRow": 36597,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-03-07",
+      "sourceRow": 36598,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-09-18",
+      "sourceRow": 36599,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-03-19",
+      "sourceRow": 36600,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-07-18",
+      "sourceRow": 36601,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-04-09",
+      "sourceRow": 36602,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-04-12",
+      "sourceRow": 36603,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08005-50-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-07-30",
+      "sourceRow": 36604,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08006-50-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-04-03",
+      "sourceRow": 36573,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08006-50-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-07-22",
+      "sourceRow": 36574,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08006-50-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-09-16",
+      "sourceRow": 36575,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08006-50-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-09-11",
+      "sourceRow": 36576,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08006-50-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-06-15",
+      "sourceRow": 36577,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08006-50-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-05-29",
+      "sourceRow": 36578,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08006-50-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-05-11",
+      "sourceRow": 36579,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08006-50-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-08-25",
+      "sourceRow": 36580,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08006-50-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-03-11",
+      "sourceRow": 36581,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08006-50-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-05-21",
+      "sourceRow": 36582,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08006-50-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-08-08",
+      "sourceRow": 36583,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08007-100-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-08-12",
+      "sourceRow": 36564,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08007-100-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-03-18",
+      "sourceRow": 36565,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08007-100-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-04-11",
+      "sourceRow": 36566,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08007-100-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-09-18",
+      "sourceRow": 36567,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08007-100-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-09-27",
+      "sourceRow": 36568,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08007-100-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-07-13",
+      "sourceRow": 36569,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08007-100-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-07-23",
+      "sourceRow": 36570,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08007-100-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-09-10",
+      "sourceRow": 36571,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWR-08007-100-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-04-17",
+      "sourceRow": 36572,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-03-16",
+      "sourceRow": 36539,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-04-06",
+      "sourceRow": 36540,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-04-22",
+      "sourceRow": 36541,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-03-03",
+      "sourceRow": 36542,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-03-02",
+      "sourceRow": 36543,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-07-22",
+      "sourceRow": 36544,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-09-12",
+      "sourceRow": 36545,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-09-16",
+      "sourceRow": 36546,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-05-31",
+      "sourceRow": 36547,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-06-25",
+      "sourceRow": 36548,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-06-03",
+      "sourceRow": 36549,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-04-21",
+      "sourceRow": 36550,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-09-09",
+      "sourceRow": 36551,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-04-27",
+      "sourceRow": 36552,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-09-25",
+      "sourceRow": 36553,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-04-15",
+      "sourceRow": 36554,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-03-14",
+      "sourceRow": 36555,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-08-29",
+      "sourceRow": 36556,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-05-10",
+      "sourceRow": 36557,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-07-11",
+      "sourceRow": 36558,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-08-25",
+      "sourceRow": 36559,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-04-29",
+      "sourceRow": 36560,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "23",
+      "weldingDate": "2026-06-27",
+      "sourceRow": 36561,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "24",
+      "weldingDate": "2026-03-30",
+      "sourceRow": 36562,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08001-125-QHA",
+      "weldNumber": "25",
+      "weldingDate": "2026-03-25",
+      "sourceRow": 36563,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-06-18",
+      "sourceRow": 36513,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-05-05",
+      "sourceRow": 36514,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-08-15",
+      "sourceRow": 36515,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-06-12",
+      "sourceRow": 36516,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-03-02",
+      "sourceRow": 36517,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-09-09",
+      "sourceRow": 36518,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-04-07",
+      "sourceRow": 36519,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-06-08",
+      "sourceRow": 36520,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-05-28",
+      "sourceRow": 36521,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-09-18",
+      "sourceRow": 36522,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-09-17",
+      "sourceRow": 36523,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-07-29",
+      "sourceRow": 36524,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-03-29",
+      "sourceRow": 36525,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-03-21",
+      "sourceRow": 36526,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-04-13",
+      "sourceRow": 36527,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-05-20",
+      "sourceRow": 36528,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-07-25",
+      "sourceRow": 36529,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-05-27",
+      "sourceRow": 36530,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-09-16",
+      "sourceRow": 36531,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-06-10",
+      "sourceRow": 36532,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-04-11",
+      "sourceRow": 36533,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-06-03",
+      "sourceRow": 36534,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "23",
+      "weldingDate": "2026-09-14",
+      "sourceRow": 36535,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "24",
+      "weldingDate": "2026-03-19",
+      "sourceRow": 36536,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "25",
+      "weldingDate": "2026-04-24",
+      "sourceRow": 36537,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08002-80-QHA",
+      "weldNumber": "26",
+      "weldingDate": "2026-09-29",
+      "sourceRow": 36538,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-03-28",
+      "sourceRow": 36487,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-04-29",
+      "sourceRow": 36488,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-09-29",
+      "sourceRow": 36489,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-05-12",
+      "sourceRow": 36490,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-04-23",
+      "sourceRow": 36491,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-03-06",
+      "sourceRow": 36492,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-05-19",
+      "sourceRow": 36493,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-06-22",
+      "sourceRow": 36494,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-06-01",
+      "sourceRow": 36495,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-06-12",
+      "sourceRow": 36496,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-05-12",
+      "sourceRow": 36497,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-03-29",
+      "sourceRow": 36498,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-03-14",
+      "sourceRow": 36499,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-09-01",
+      "sourceRow": 36500,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-04-30",
+      "sourceRow": 36501,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-06-23",
+      "sourceRow": 36502,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-08-19",
+      "sourceRow": 36503,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-09-13",
+      "sourceRow": 36504,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-03-21",
+      "sourceRow": 36505,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-03-12",
+      "sourceRow": 36506,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-03-13",
+      "sourceRow": 36507,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-03-24",
+      "sourceRow": 36508,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "23",
+      "weldingDate": "2026-06-30",
+      "sourceRow": 36509,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "24",
+      "weldingDate": "2026-07-03",
+      "sourceRow": 36510,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "25",
+      "weldingDate": "2026-03-24",
+      "sourceRow": 36511,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08003-80-QHA",
+      "weldNumber": "26",
+      "weldingDate": "2026-08-03",
+      "sourceRow": 36512,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-05-16",
+      "sourceRow": 36461,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-07-27",
+      "sourceRow": 36462,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-07-30",
+      "sourceRow": 36463,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-07-19",
+      "sourceRow": 36464,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-05-02",
+      "sourceRow": 36465,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-07-17",
+      "sourceRow": 36466,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-06-10",
+      "sourceRow": 36467,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-04-03",
+      "sourceRow": 36468,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-08-27",
+      "sourceRow": 36469,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-09-10",
+      "sourceRow": 36470,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-03-26",
+      "sourceRow": 36471,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-03-22",
+      "sourceRow": 36472,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-03-10",
+      "sourceRow": 36473,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-06-17",
+      "sourceRow": 36474,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-04-15",
+      "sourceRow": 36475,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-09-14",
+      "sourceRow": 36476,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-03-15",
+      "sourceRow": 36477,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-05-08",
+      "sourceRow": 36478,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-05-31",
+      "sourceRow": 36479,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-03-14",
+      "sourceRow": 36480,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-07-27",
+      "sourceRow": 36481,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-04-25",
+      "sourceRow": 36482,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "23",
+      "weldingDate": "2026-08-08",
+      "sourceRow": 36483,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "24",
+      "weldingDate": "2026-06-07",
+      "sourceRow": 36484,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "25",
+      "weldingDate": "2026-04-25",
+      "sourceRow": 36485,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08004-80-QHA",
+      "weldNumber": "26",
+      "weldingDate": "2026-04-13",
+      "sourceRow": 36486,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-03-20",
+      "sourceRow": 36437,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-08-19",
+      "sourceRow": 36438,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-07-31",
+      "sourceRow": 36439,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-09-22",
+      "sourceRow": 36440,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-04-22",
+      "sourceRow": 36441,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-03-30",
+      "sourceRow": 36442,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-05-03",
+      "sourceRow": 36443,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-03-11",
+      "sourceRow": 36444,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-07-02",
+      "sourceRow": 36445,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-08-11",
+      "sourceRow": 36446,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-05-17",
+      "sourceRow": 36447,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-06-12",
+      "sourceRow": 36448,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-04-20",
+      "sourceRow": 36449,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-05-25",
+      "sourceRow": 36450,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-07-05",
+      "sourceRow": 36451,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-08-12",
+      "sourceRow": 36452,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-03-15",
+      "sourceRow": 36453,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-05-10",
+      "sourceRow": 36454,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-06-07",
+      "sourceRow": 36455,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-04-13",
+      "sourceRow": 36456,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-06-24",
+      "sourceRow": 36457,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-07-03",
+      "sourceRow": 36458,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "23",
+      "weldingDate": "2026-06-16",
+      "sourceRow": 36459,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08005-50-QHA",
+      "weldNumber": "24",
+      "weldingDate": "2026-09-27",
+      "sourceRow": 36460,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08006-50-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-06-01",
+      "sourceRow": 36426,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08006-50-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-03-20",
+      "sourceRow": 36427,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08006-50-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-05-12",
+      "sourceRow": 36428,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08006-50-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-06-29",
+      "sourceRow": 36429,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08006-50-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-07-05",
+      "sourceRow": 36430,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08006-50-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-04-07",
+      "sourceRow": 36431,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08006-50-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-07-23",
+      "sourceRow": 36432,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08006-50-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-07-27",
+      "sourceRow": 36433,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08006-50-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-05-22",
+      "sourceRow": 36434,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08006-50-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-03-05",
+      "sourceRow": 36435,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08006-50-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-09-09",
+      "sourceRow": 36436,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08007-100-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-09-18",
+      "sourceRow": 36417,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08007-100-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-09-12",
+      "sourceRow": 36418,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08007-100-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-08-31",
+      "sourceRow": 36419,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08007-100-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-04-24",
+      "sourceRow": 36420,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08007-100-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-05-09",
+      "sourceRow": 36421,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08007-100-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-09-01",
+      "sourceRow": 36422,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08007-100-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-03-30",
+      "sourceRow": 36423,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08007-100-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-03-29",
+      "sourceRow": 36424,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08007-100-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-03-18",
+      "sourceRow": 36425,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08008-65-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-05-12",
+      "sourceRow": 36413,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08008-65-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-04-25",
+      "sourceRow": 36414,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08008-65-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-04-02",
+      "sourceRow": 36415,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08008-65-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-07-19",
+      "sourceRow": 36416,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08009-65-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-03-14",
+      "sourceRow": 36409,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08009-65-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-07-05",
+      "sourceRow": 36410,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08009-65-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-06-21",
+      "sourceRow": 36411,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08009-65-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-07-24",
+      "sourceRow": 36412,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08010-65-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-09-17",
+      "sourceRow": 36405,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08010-65-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-07-11",
+      "sourceRow": 36406,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08010-65-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-03-13",
+      "sourceRow": 36407,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08010-65-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-08-27",
+      "sourceRow": 36408,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08011-40-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-06-25",
+      "sourceRow": 36399,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08011-40-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-03-07",
+      "sourceRow": 36400,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08011-40-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-06-14",
+      "sourceRow": 36401,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08011-40-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-06-18",
+      "sourceRow": 36402,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08011-40-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-07-03",
+      "sourceRow": 36403,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08011-40-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-06-02",
+      "sourceRow": 36404,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08012-100-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-07-26",
+      "sourceRow": 36389,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08012-100-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-04-08",
+      "sourceRow": 36390,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08012-100-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-09-05",
+      "sourceRow": 36391,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08012-100-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-06-07",
+      "sourceRow": 36392,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08012-100-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-08-18",
+      "sourceRow": 36393,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08012-100-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-03-03",
+      "sourceRow": 36394,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08012-100-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-09-28",
+      "sourceRow": 36395,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08012-100-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-05-14",
+      "sourceRow": 36396,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08012-100-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-07-11",
+      "sourceRow": 36397,
+      "virtual": true
+    },
+    {
+      "lineNumber": "CWS-08012-100-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-08-02",
+      "sourceRow": 36398,
+      "virtual": true
+    },
+    {
+      "lineNumber": "DW-00001-80-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-03-16",
+      "sourceRow": 36388,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-05-15",
+      "sourceRow": 36363,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-06-16",
+      "sourceRow": 36364,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-09-24",
+      "sourceRow": 36365,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-06-14",
+      "sourceRow": 36366,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-03-04",
+      "sourceRow": 36367,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-06-22",
+      "sourceRow": 36368,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-04-20",
+      "sourceRow": 36369,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-06-25",
+      "sourceRow": 36370,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-06-06",
+      "sourceRow": 36371,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-08-26",
+      "sourceRow": 36372,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-09-15",
+      "sourceRow": 36373,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-05-23",
+      "sourceRow": 36374,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-04-24",
+      "sourceRow": 36375,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-04-24",
+      "sourceRow": 36376,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-03-19",
+      "sourceRow": 36377,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-04-20",
+      "sourceRow": 36378,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-09-20",
+      "sourceRow": 36379,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-09-29",
+      "sourceRow": 36380,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-03-18",
+      "sourceRow": 36381,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-07-05",
+      "sourceRow": 36382,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-03-20",
+      "sourceRow": 36383,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-08-27",
+      "sourceRow": 36384,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "23",
+      "weldingDate": "2026-04-19",
+      "sourceRow": 36385,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "24",
+      "weldingDate": "2026-04-17",
+      "sourceRow": 36386,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08001-125-QHA",
+      "weldNumber": "25",
+      "weldingDate": "2026-09-30",
+      "sourceRow": 36387,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08002-125-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-04-10",
+      "sourceRow": 36354,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08002-125-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-09-06",
+      "sourceRow": 36355,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08002-125-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-09-20",
+      "sourceRow": 36356,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08002-125-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-03-25",
+      "sourceRow": 36357,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08002-125-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-08-04",
+      "sourceRow": 36358,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08002-125-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-07-21",
+      "sourceRow": 36359,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08002-125-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-06-07",
+      "sourceRow": 36360,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08002-125-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-03-18",
+      "sourceRow": 36361,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08002-125-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-04-13",
+      "sourceRow": 36362,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-04-16",
+      "sourceRow": 36334,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-08-11",
+      "sourceRow": 36335,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-04-14",
+      "sourceRow": 36336,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-08-25",
+      "sourceRow": 36337,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-08-05",
+      "sourceRow": 36338,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-07-07",
+      "sourceRow": 36339,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-04-16",
+      "sourceRow": 36340,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-07-20",
+      "sourceRow": 36341,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-07-16",
+      "sourceRow": 36342,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-04-30",
+      "sourceRow": 36343,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-06-08",
+      "sourceRow": 36344,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-08-31",
+      "sourceRow": 36345,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-08-06",
+      "sourceRow": 36346,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-04-14",
+      "sourceRow": 36347,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-03-30",
+      "sourceRow": 36348,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-07-17",
+      "sourceRow": 36349,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-09-17",
+      "sourceRow": 36350,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-05-30",
+      "sourceRow": 36351,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-04-28",
+      "sourceRow": 36352,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08003-80-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-03-20",
+      "sourceRow": 36353,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-06-24",
+      "sourceRow": 36305,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-08-16",
+      "sourceRow": 36306,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-03-25",
+      "sourceRow": 36307,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-04-20",
+      "sourceRow": 36308,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-03-26",
+      "sourceRow": 36309,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-08-13",
+      "sourceRow": 36310,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-04-15",
+      "sourceRow": 36311,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-04-23",
+      "sourceRow": 36312,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-04-29",
+      "sourceRow": 36313,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-08-27",
+      "sourceRow": 36314,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-08-04",
+      "sourceRow": 36315,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-07-26",
+      "sourceRow": 36316,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-05-05",
+      "sourceRow": 36317,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-03-15",
+      "sourceRow": 36318,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-06-15",
+      "sourceRow": 36319,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-07-22",
+      "sourceRow": 36320,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-03-14",
+      "sourceRow": 36321,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-06-21",
+      "sourceRow": 36322,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-06-10",
+      "sourceRow": 36323,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-03-29",
+      "sourceRow": 36324,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-06-02",
+      "sourceRow": 36325,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-07-02",
+      "sourceRow": 36326,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "23",
+      "weldingDate": "2026-05-23",
+      "sourceRow": 36327,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "24",
+      "weldingDate": "2026-09-08",
+      "sourceRow": 36328,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "25",
+      "weldingDate": "2026-09-05",
+      "sourceRow": 36329,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "26",
+      "weldingDate": "2026-04-11",
+      "sourceRow": 36330,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "27",
+      "weldingDate": "2026-06-27",
+      "sourceRow": 36331,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "28",
+      "weldingDate": "2026-08-02",
+      "sourceRow": 36332,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08004-100-QHA",
+      "weldNumber": "29",
+      "weldingDate": "2026-07-14",
+      "sourceRow": 36333,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08005-100-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-09-23",
+      "sourceRow": 36298,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08005-100-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-05-31",
+      "sourceRow": 36299,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08005-100-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-08-09",
+      "sourceRow": 36300,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08005-100-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-04-15",
+      "sourceRow": 36301,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08005-100-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-04-16",
+      "sourceRow": 36302,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08005-100-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-09-08",
+      "sourceRow": 36303,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IA-08005-100-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-08-11",
+      "sourceRow": 36304,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-03-21",
+      "sourceRow": 36276,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-04-30",
+      "sourceRow": 36277,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-09-22",
+      "sourceRow": 36278,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-06-10",
+      "sourceRow": 36279,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-08-18",
+      "sourceRow": 36280,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-04-04",
+      "sourceRow": 36281,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-03-09",
+      "sourceRow": 36282,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-07-16",
+      "sourceRow": 36283,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-08-21",
+      "sourceRow": 36284,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-05-18",
+      "sourceRow": 36285,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-09-05",
+      "sourceRow": 36286,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-09-16",
+      "sourceRow": 36287,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-04-27",
+      "sourceRow": 36288,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-08-19",
+      "sourceRow": 36289,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-06-01",
+      "sourceRow": 36290,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-07-11",
+      "sourceRow": 36291,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-04-02",
+      "sourceRow": 36292,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-05-07",
+      "sourceRow": 36293,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-03-30",
+      "sourceRow": 36294,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-03-20",
+      "sourceRow": 36295,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-08-16",
+      "sourceRow": 36296,
+      "virtual": true
+    },
+    {
+      "lineNumber": "IW-08001-80-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-07-03",
+      "sourceRow": 36297,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08001-50-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-05-26",
+      "sourceRow": 36271,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08001-50-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-09-28",
+      "sourceRow": 36272,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08001-50-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-03-15",
+      "sourceRow": 36273,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08001-50-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-07-29",
+      "sourceRow": 36274,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08001-50-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-06-22",
+      "sourceRow": 36275,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-08-01",
+      "sourceRow": 36255,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-07-19",
+      "sourceRow": 36256,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-09-02",
+      "sourceRow": 36257,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-06-10",
+      "sourceRow": 36258,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-04-24",
+      "sourceRow": 36259,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-06-24",
+      "sourceRow": 36260,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-08-31",
+      "sourceRow": 36261,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-04-26",
+      "sourceRow": 36262,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-04-04",
+      "sourceRow": 36263,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-04-17",
+      "sourceRow": 36264,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-03-23",
+      "sourceRow": 36265,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-07-25",
+      "sourceRow": 36266,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-04-16",
+      "sourceRow": 36267,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-04-03",
+      "sourceRow": 36268,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-04-29",
+      "sourceRow": 36269,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08002-50-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-03-01",
+      "sourceRow": 36270,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-05-15",
+      "sourceRow": 36233,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-04-18",
+      "sourceRow": 36234,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-05-30",
+      "sourceRow": 36235,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-09-21",
+      "sourceRow": 36236,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-07-15",
+      "sourceRow": 36237,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-05-12",
+      "sourceRow": 36238,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-08-07",
+      "sourceRow": 36239,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-08-09",
+      "sourceRow": 36240,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-07-14",
+      "sourceRow": 36241,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-09-12",
+      "sourceRow": 36242,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-06-01",
+      "sourceRow": 36243,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-04-12",
+      "sourceRow": 36244,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-08-15",
+      "sourceRow": 36245,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-07-20",
+      "sourceRow": 36246,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-05-30",
+      "sourceRow": 36247,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-06-14",
+      "sourceRow": 36248,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-05-09",
+      "sourceRow": 36249,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-06-01",
+      "sourceRow": 36250,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-08-08",
+      "sourceRow": 36251,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-06-16",
+      "sourceRow": 36252,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-05-01",
+      "sourceRow": 36253,
+      "virtual": true
+    },
+    {
+      "lineNumber": "N2-08003-50-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-06-30",
+      "sourceRow": 36254,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-05-07",
+      "sourceRow": 36206,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-08-22",
+      "sourceRow": 36207,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-08-19",
+      "sourceRow": 36208,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-06-29",
+      "sourceRow": 36209,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-04-19",
+      "sourceRow": 36210,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-05-23",
+      "sourceRow": 36211,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-08-28",
+      "sourceRow": 36212,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-08-11",
+      "sourceRow": 36213,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-07-07",
+      "sourceRow": 36214,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-09-12",
+      "sourceRow": 36215,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-08-11",
+      "sourceRow": 36216,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-08-16",
+      "sourceRow": 36217,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-05-11",
+      "sourceRow": 36218,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-04-14",
+      "sourceRow": 36219,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-06-22",
+      "sourceRow": 36220,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-09-20",
+      "sourceRow": 36221,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-05-04",
+      "sourceRow": 36222,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-09-09",
+      "sourceRow": 36223,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-05-06",
+      "sourceRow": 36224,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-03-19",
+      "sourceRow": 36225,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-04-18",
+      "sourceRow": 36226,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-05-11",
+      "sourceRow": 36227,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "23",
+      "weldingDate": "2026-05-19",
+      "sourceRow": 36228,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "24",
+      "weldingDate": "2026-03-22",
+      "sourceRow": 36229,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "25",
+      "weldingDate": "2026-03-22",
+      "sourceRow": 36230,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "26",
+      "weldingDate": "2026-04-06",
+      "sourceRow": 36231,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08001-100-QHA",
+      "weldNumber": "27",
+      "weldingDate": "2026-07-15",
+      "sourceRow": 36232,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-05-30",
+      "sourceRow": 36181,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-03-30",
+      "sourceRow": 36182,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-04-28",
+      "sourceRow": 36183,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-06-10",
+      "sourceRow": 36184,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-05-30",
+      "sourceRow": 36185,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-04-15",
+      "sourceRow": 36186,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-04-11",
+      "sourceRow": 36187,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-05-11",
+      "sourceRow": 36188,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-09-30",
+      "sourceRow": 36189,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-07-04",
+      "sourceRow": 36190,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-05-12",
+      "sourceRow": 36191,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-07-21",
+      "sourceRow": 36192,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-09-25",
+      "sourceRow": 36193,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-09-05",
+      "sourceRow": 36194,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-06-30",
+      "sourceRow": 36195,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-04-30",
+      "sourceRow": 36196,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-04-30",
+      "sourceRow": 36197,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-07-30",
+      "sourceRow": 36198,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-07-14",
+      "sourceRow": 36199,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-06-26",
+      "sourceRow": 36200,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-04-16",
+      "sourceRow": 36201,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-06-19",
+      "sourceRow": 36202,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "23",
+      "weldingDate": "2026-08-16",
+      "sourceRow": 36203,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "24",
+      "weldingDate": "2026-07-07",
+      "sourceRow": 36204,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08002-100-QHA",
+      "weldNumber": "25",
+      "weldingDate": "2026-09-07",
+      "sourceRow": 36205,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-06-15",
+      "sourceRow": 36128,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-09-15",
+      "sourceRow": 36129,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-08-29",
+      "sourceRow": 36130,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-08-23",
+      "sourceRow": 36131,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-09-13",
+      "sourceRow": 36132,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-09-06",
+      "sourceRow": 36133,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-08-07",
+      "sourceRow": 36134,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-03-18",
+      "sourceRow": 36135,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-06-05",
+      "sourceRow": 36136,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-08-02",
+      "sourceRow": 36137,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-05-04",
+      "sourceRow": 36138,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-05-13",
+      "sourceRow": 36139,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-03-09",
+      "sourceRow": 36140,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-06-01",
+      "sourceRow": 36141,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-03-15",
+      "sourceRow": 36142,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-03-06",
+      "sourceRow": 36143,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-04-15",
+      "sourceRow": 36144,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-09-28",
+      "sourceRow": 36145,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-08-13",
+      "sourceRow": 36146,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-09-01",
+      "sourceRow": 36147,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-04-20",
+      "sourceRow": 36148,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-08-03",
+      "sourceRow": 36149,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "23",
+      "weldingDate": "2026-09-14",
+      "sourceRow": 36150,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "24",
+      "weldingDate": "2026-05-25",
+      "sourceRow": 36151,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "25",
+      "weldingDate": "2026-08-06",
+      "sourceRow": 36152,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "26",
+      "weldingDate": "2026-05-07",
+      "sourceRow": 36153,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "27",
+      "weldingDate": "2026-04-15",
+      "sourceRow": 36154,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "28",
+      "weldingDate": "2026-08-13",
+      "sourceRow": 36155,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "29",
+      "weldingDate": "2026-09-10",
+      "sourceRow": 36156,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "30",
+      "weldingDate": "2026-04-07",
+      "sourceRow": 36157,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "31",
+      "weldingDate": "2026-04-18",
+      "sourceRow": 36158,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "32",
+      "weldingDate": "2026-03-12",
+      "sourceRow": 36159,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "33",
+      "weldingDate": "2026-06-22",
+      "sourceRow": 36160,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "34",
+      "weldingDate": "2026-03-28",
+      "sourceRow": 36161,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "35",
+      "weldingDate": "2026-03-19",
+      "sourceRow": 36162,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "36",
+      "weldingDate": "2026-05-03",
+      "sourceRow": 36163,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "37",
+      "weldingDate": "2026-03-03",
+      "sourceRow": 36164,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "38",
+      "weldingDate": "2026-06-07",
+      "sourceRow": 36165,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "39",
+      "weldingDate": "2026-03-30",
+      "sourceRow": 36166,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "40",
+      "weldingDate": "2026-05-19",
+      "sourceRow": 36167,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "41",
+      "weldingDate": "2026-03-15",
+      "sourceRow": 36168,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "42",
+      "weldingDate": "2026-04-15",
+      "sourceRow": 36169,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "43",
+      "weldingDate": "2026-06-07",
+      "sourceRow": 36170,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "44",
+      "weldingDate": "2026-06-16",
+      "sourceRow": 36171,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "45",
+      "weldingDate": "2026-03-25",
+      "sourceRow": 36172,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "46",
+      "weldingDate": "2026-09-03",
+      "sourceRow": 36173,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "47",
+      "weldingDate": "2026-05-10",
+      "sourceRow": 36174,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "48",
+      "weldingDate": "2026-03-05",
+      "sourceRow": 36175,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "49",
+      "weldingDate": "2026-08-30",
+      "sourceRow": 36176,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "50",
+      "weldingDate": "2026-03-26",
+      "sourceRow": 36177,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "51",
+      "weldingDate": "2026-09-23",
+      "sourceRow": 36178,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "52",
+      "weldingDate": "2026-07-21",
+      "sourceRow": 36179,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08003-100-QHA",
+      "weldNumber": "53",
+      "weldingDate": "2026-08-06",
+      "sourceRow": 36180,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-08-15",
+      "sourceRow": 36096,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-03-27",
+      "sourceRow": 36097,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-04-24",
+      "sourceRow": 36098,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-03-13",
+      "sourceRow": 36099,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-08-20",
+      "sourceRow": 36100,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-06-11",
+      "sourceRow": 36101,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-09-17",
+      "sourceRow": 36102,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-07-01",
+      "sourceRow": 36103,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-03-18",
+      "sourceRow": 36104,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-09-19",
+      "sourceRow": 36105,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-08-12",
+      "sourceRow": 36106,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-06-07",
+      "sourceRow": 36107,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "13",
+      "weldingDate": "2026-08-03",
+      "sourceRow": 36108,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "14",
+      "weldingDate": "2026-04-14",
+      "sourceRow": 36109,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "15",
+      "weldingDate": "2026-03-21",
+      "sourceRow": 36110,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "16",
+      "weldingDate": "2026-07-02",
+      "sourceRow": 36111,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "17",
+      "weldingDate": "2026-09-03",
+      "sourceRow": 36112,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "18",
+      "weldingDate": "2026-04-18",
+      "sourceRow": 36113,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "19",
+      "weldingDate": "2026-06-05",
+      "sourceRow": 36114,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "20",
+      "weldingDate": "2026-03-05",
+      "sourceRow": 36115,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "21",
+      "weldingDate": "2026-04-07",
+      "sourceRow": 36116,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "22",
+      "weldingDate": "2026-08-25",
+      "sourceRow": 36117,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "23",
+      "weldingDate": "2026-05-09",
+      "sourceRow": 36118,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "24",
+      "weldingDate": "2026-09-08",
+      "sourceRow": 36119,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "25",
+      "weldingDate": "2026-08-12",
+      "sourceRow": 36120,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "26",
+      "weldingDate": "2026-08-19",
+      "sourceRow": 36121,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "27",
+      "weldingDate": "2026-03-09",
+      "sourceRow": 36122,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "28",
+      "weldingDate": "2026-04-04",
+      "sourceRow": 36123,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "29",
+      "weldingDate": "2026-03-02",
+      "sourceRow": 36124,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "30",
+      "weldingDate": "2026-09-19",
+      "sourceRow": 36125,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "31",
+      "weldingDate": "2026-06-19",
+      "sourceRow": 36126,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08004-125-QHA",
+      "weldNumber": "32",
+      "weldingDate": "2026-07-24",
+      "sourceRow": 36127,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08005-125-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-03-27",
+      "sourceRow": 36087,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08005-125-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-09-23",
+      "sourceRow": 36088,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08005-125-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-07-28",
+      "sourceRow": 36089,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08005-125-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-06-25",
+      "sourceRow": 36090,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08005-125-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-08-11",
+      "sourceRow": 36091,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08005-125-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-07-06",
+      "sourceRow": 36092,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08005-125-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-09-27",
+      "sourceRow": 36093,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08005-125-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-09-16",
+      "sourceRow": 36094,
+      "virtual": true
+    },
+    {
+      "lineNumber": "PA-08005-125-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-06-30",
+      "sourceRow": 36095,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0801-PG-80307",
+      "weldNumber": "1",
+      "weldingDate": "2026-07-18",
+      "sourceRow": 36084,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0801-PG-80307",
+      "weldNumber": "2",
+      "weldingDate": "2026-08-21",
+      "sourceRow": 36085,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0801-PG-80307",
+      "weldNumber": "3",
+      "weldingDate": "2026-03-19",
+      "sourceRow": 36086,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0801-PSV-08001",
+      "weldNumber": "1",
+      "weldingDate": "2026-08-11",
+      "sourceRow": 36082,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0801-PSV-08001",
+      "weldNumber": "2",
+      "weldingDate": "2026-08-14",
+      "sourceRow": 36083,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0802-PG-80403",
+      "weldNumber": "1",
+      "weldingDate": "2026-03-06",
+      "sourceRow": 36079,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0802-PG-80403",
+      "weldNumber": "2",
+      "weldingDate": "2026-07-21",
+      "sourceRow": 36080,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0802-PG-80403",
+      "weldNumber": "3",
+      "weldingDate": "2026-04-23",
+      "sourceRow": 36081,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0802-PSV-08002",
+      "weldNumber": "1",
+      "weldingDate": "2026-06-28",
+      "sourceRow": 36077,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0802-PSV-08002",
+      "weldNumber": "2",
+      "weldingDate": "2026-05-07",
+      "sourceRow": 36078,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0803-PG-80502",
+      "weldNumber": "1",
+      "weldingDate": "2026-03-10",
+      "sourceRow": 36074,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0803-PG-80502",
+      "weldNumber": "2",
+      "weldingDate": "2026-03-21",
+      "sourceRow": 36075,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0803-PG-80502",
+      "weldNumber": "3",
+      "weldingDate": "2026-07-18",
+      "sourceRow": 36076,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0803-PSV-08003",
+      "weldNumber": "1",
+      "weldingDate": "2026-07-11",
+      "sourceRow": 36072,
+      "virtual": true
+    },
+    {
+      "lineNumber": "V-0803-PSV-08003",
+      "weldNumber": "2",
+      "weldingDate": "2026-09-22",
+      "sourceRow": 36073,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "1",
+      "weldingDate": "2026-06-17",
+      "sourceRow": 36060,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "2",
+      "weldingDate": "2026-07-30",
+      "sourceRow": 36061,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "3",
+      "weldingDate": "2026-08-04",
+      "sourceRow": 36062,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "4",
+      "weldingDate": "2026-05-07",
+      "sourceRow": 36063,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "5",
+      "weldingDate": "2026-09-08",
+      "sourceRow": 36064,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "6",
+      "weldingDate": "2026-08-09",
+      "sourceRow": 36065,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "7",
+      "weldingDate": "2026-06-06",
+      "sourceRow": 36066,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "8",
+      "weldingDate": "2026-05-25",
+      "sourceRow": 36067,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "9",
+      "weldingDate": "2026-05-25",
+      "sourceRow": 36068,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "10",
+      "weldingDate": "2026-09-04",
+      "sourceRow": 36069,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "11",
+      "weldingDate": "2026-09-30",
+      "sourceRow": 36070,
+      "virtual": true
+    },
+    {
+      "lineNumber": "WW-08001-80-QHA",
+      "weldNumber": "12",
+      "weldingDate": "2026-04-25",
+      "sourceRow": 36071,
+      "virtual": true
+    }
+  ]
+}

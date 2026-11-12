@@ -1,0 +1,12 @@
+{
+  "name": "power-station-model-platform",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check server.mjs && node --check backend.mjs && node --check frontend.mjs && node --check src/main.js",
+    "start": "node server.mjs",
+    "start:backend": "node backend.mjs",
+    "start:frontend": "node frontend.mjs"
+  }
+}

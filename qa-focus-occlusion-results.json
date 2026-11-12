@@ -1,0 +1,1023 @@
+{
+  "residualChecked": 184,
+  "visiblyClear": 57,
+  "lowVisibilityCount": 127,
+  "lowVisibility": [
+    {
+      "id": "hash_662625928_1951",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 2,
+      "defaultOccluders": 6,
+      "candidateIndex": 12
+    },
+    {
+      "id": "hash_662625824_1953",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 2,
+      "defaultOccluders": 5,
+      "candidateIndex": 12
+    },
+    {
+      "id": "hash_662620000_2198",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 2,
+      "defaultOccluders": 3,
+      "candidateIndex": 33
+    },
+    {
+      "id": "hash_877270040_2945",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 6,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_662596592_86",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 5,
+      "candidateIndex": 12
+    },
+    {
+      "id": "hash_877462384_9287",
+      "name": "Weld",
+      "targetPicks": 1,
+      "occluders": 1,
+      "defaultOccluders": 5,
+      "candidateIndex": 17
+    },
+    {
+      "id": "hash_662626760_1906",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 4,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_877464256_9188",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 4,
+      "candidateIndex": 17
+    },
+    {
+      "id": "hash_662598776_49",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 3,
+      "candidateIndex": 18
+    },
+    {
+      "id": "hash_662595760_84",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 3,
+      "candidateIndex": 5
+    },
+    {
+      "id": "hash_662631440_1664",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 3,
+      "candidateIndex": 34
+    },
+    {
+      "id": "hash_877278568_2481",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 3,
+      "candidateIndex": 34
+    },
+    {
+      "id": "hash_877269520_2968",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 3,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_877300384_4571",
+      "name": "Other",
+      "targetPicks": 1,
+      "occluders": 1,
+      "defaultOccluders": 3,
+      "candidateIndex": 8
+    },
+    {
+      "id": "hash_877300280_4596",
+      "name": "FLAN_SO",
+      "targetPicks": 2,
+      "occluders": 1,
+      "defaultOccluders": 3,
+      "candidateIndex": 8
+    },
+    {
+      "id": "hash_877299136_4655",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 3,
+      "candidateIndex": 34
+    },
+    {
+      "id": "hash_934816680_5807",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 3,
+      "candidateIndex": 34
+    },
+    {
+      "id": "hash_662594512_47",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 18
+    },
+    {
+      "id": "hash_662593472_133",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 20
+    },
+    {
+      "id": "hash_662593264_165",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 7
+    },
+    {
+      "id": "hash_662593160_167",
+      "name": "Other",
+      "targetPicks": 2,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_662588168_414",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 9
+    },
+    {
+      "id": "hash_662588064_416",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 9
+    },
+    {
+      "id": "hash_662585360_587",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 10
+    },
+    {
+      "id": "hash_662617968_589",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 10
+    },
+    {
+      "id": "hash_662631024_1685",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_662630608_1721",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 24
+    },
+    {
+      "id": "hash_662626864_1904",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_877277840_2536",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_877277736_2538",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_877270144_2943",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_877269936_2958",
+      "name": "FLAN_SO",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_877266192_3120",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_877265464_3145",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 8
+    },
+    {
+      "id": "hash_877265360_3147",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 20
+    },
+    {
+      "id": "hash_877300488_4569",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 7
+    },
+    {
+      "id": "hash_877326128_4917",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 25
+    },
+    {
+      "id": "hash_877323112_5080",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 25
+    },
+    {
+      "id": "hash_877319888_5278",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_934818344_5708",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 12
+    },
+    {
+      "id": "hash_934816784_5805",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 11
+    },
+    {
+      "id": "hash_934815120_5904",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 11
+    },
+    {
+      "id": "hash_934829392_6747",
+      "name": "Weld",
+      "targetPicks": 1,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_934821904_7113",
+      "name": "Weld",
+      "targetPicks": 1,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_934856752_8479",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 35
+    },
+    {
+      "id": "hash_877474240_8731",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 35
+    },
+    {
+      "id": "hash_877468520_8983",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 34
+    },
+    {
+      "id": "hash_877464152_9190",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 2,
+      "candidateIndex": 5
+    },
+    {
+      "id": "hash_662598984_6",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_662600024_8",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_662594304_131",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_662614640_778",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 47
+    },
+    {
+      "id": "hash_662614536_780",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 47
+    },
+    {
+      "id": "hash_662613080_867",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_662612248_921",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 45
+    },
+    {
+      "id": "hash_662612144_923",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 45
+    },
+    {
+      "id": "hash_662608296_1161",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 46
+    },
+    {
+      "id": "hash_662608192_1163",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 46
+    },
+    {
+      "id": "hash_662606528_1257",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 21
+    },
+    {
+      "id": "hash_662604032_1353",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_662603096_1386",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_662633936_1537",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 35
+    },
+    {
+      "id": "hash_662633832_1539",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 35
+    },
+    {
+      "id": "hash_662631544_1662",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_662630920_1687",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_662630712_1719",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_662624784_2014",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_662623224_2074",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_662620728_2170",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 21
+    },
+    {
+      "id": "hash_662620624_2174",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 21
+    },
+    {
+      "id": "hash_662620520_2178",
+      "name": "Weld",
+      "targetPicks": 1,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877281064_2354",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 35
+    },
+    {
+      "id": "hash_877280960_2356",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 35
+    },
+    {
+      "id": "hash_877278672_2479",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877278152_2502",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_877278048_2504",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877276488_2590",
+      "name": "Weld",
+      "targetPicks": 1,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_877274928_2650",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877272536_2818",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 34
+    },
+    {
+      "id": "hash_877272432_2820",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 34
+    },
+    {
+      "id": "hash_877272328_2845",
+      "name": "FLAN_SO",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_877269624_2966",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_877269312_3000",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_877269208_3002",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877267752_3060",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 23
+    },
+    {
+      "id": "hash_877282024_3856",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 14
+    },
+    {
+      "id": "hash_877281920_3858",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 14
+    },
+    {
+      "id": "hash_877312136_3973",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 14
+    },
+    {
+      "id": "hash_877311096_4033",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877310992_4035",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877309744_4114",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877308704_4176",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 33
+    },
+    {
+      "id": "hash_877308600_4178",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 33
+    },
+    {
+      "id": "hash_877305064_4366",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877304960_4368",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 16
+    },
+    {
+      "id": "hash_877303608_4452",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 21
+    },
+    {
+      "id": "hash_877301216_4544",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877325920_4952",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 13
+    },
+    {
+      "id": "hash_877325816_4954",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877324568_5018",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 13
+    },
+    {
+      "id": "hash_877322904_5115",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 13
+    },
+    {
+      "id": "hash_877322800_5117",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_877318848_5339",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 13
+    },
+    {
+      "id": "hash_877315624_5476",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 14
+    },
+    {
+      "id": "hash_877315520_5478",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 14
+    },
+    {
+      "id": "hash_877314272_5539",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 14
+    },
+    {
+      "id": "hash_934818448_5706",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_934815016_5906",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_934833760_6521",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 24
+    },
+    {
+      "id": "hash_934833656_6523",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_934829496_6743",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_934826272_6887",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_934826168_6889",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_934822008_7109",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_934851496_7253",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_934851392_7255",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 22
+    },
+    {
+      "id": "hash_934847232_7475",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_934847128_7479",
+      "name": "Weld",
+      "targetPicks": 1,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 0
+    },
+    {
+      "id": "hash_934844216_7611",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 14
+    },
+    {
+      "id": "hash_934844112_7613",
+      "name": "Other",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 14
+    },
+    {
+      "id": "hash_934840680_7816",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 2
+    },
+    {
+      "id": "hash_934856856_8477",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 35
+    },
+    {
+      "id": "hash_877477152_8609",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 35
+    },
+    {
+      "id": "hash_877474344_8729",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 35
+    },
+    {
+      "id": "hash_877471432_8861",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 35
+    },
+    {
+      "id": "hash_877468624_8981",
+      "name": "GASK",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 34
+    },
+    {
+      "id": "hash_877465712_9113",
+      "name": "Weld",
+      "targetPicks": 0,
+      "occluders": 1,
+      "defaultOccluders": 1,
+      "candidateIndex": 34
+    }
+  ]
+}
